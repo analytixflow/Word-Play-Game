@@ -15,5 +15,6 @@ The Word Play Game is a Python-based interactive game that challenges players to
 - Replay option for continuous engagement
 
 ### 🤖 Code
-- <a href= "https://github.com/analytixflow/Word-Play-Game/blob/main/word_play.ipynb">Code</a>
+- <a href= "https://github.com/analytixflow/Word-Play-Game/blob/main/word_play.ipynb">Python Code</a>
+
 
